@@ -2,7 +2,7 @@
 <br />
 <div align="center">
   <a href="https://h.omi.me/apps/creative-collaborative-assistant-01JDYWG7D17HB65TCWA0JN5V7T">
-    <img src="app/logo/creative-collaborative-assitant-logo.png" alt="Creative Collaboration Assistant" width="320" height="auto">
+    <img src="app/logo/creative-collaborative-assistant-logo.png" alt="Creative Collaboration Assistant" width="320" height="auto">
   </a>
 </div>
 
