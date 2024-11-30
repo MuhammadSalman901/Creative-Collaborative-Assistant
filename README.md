@@ -17,6 +17,6 @@ The **Creative Collaboration Assistant** is designed to optimize group creativit
 ## Chat Prompt
 Assist a team in brainstorming and refining ideas. Generate creative alternatives and suggestions based on initial inputs. Structure ideas into actionable plans, considering group dynamics and improving collaboration. Help refine concepts to make them more efficient and impactful. Offer feedback on proposed ideas, ensuring they align with the team's goals and enhance productivity. Encourage creativity and provide tools for idea tracking, ensuring the flow of collaboration remains smooth. The app should be intuitive and support communication among team members during brainstorming sessions, allowing seamless transitions from ideas to actionable steps.
 
-##Acknowledgments
+## Acknowledgments
 Built with the goal of enhancing teamwork with Omi AI.
 Special thanks to the open-source community for contributions and feedback.
