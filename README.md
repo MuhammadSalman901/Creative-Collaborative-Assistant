@@ -1,4 +1,11 @@
 # Creative-Collaborative-Assistant
+<br />
+<div align="center">
+  <a href="https://h.omi.me/apps/creative-collaborative-assistant-01JDYWG7D17HB65TCWA0JN5V7T">
+    <img src="app/logo/creative-collaborative-assitant-logo.png" alt="Creative Collaboration Assistant" width="320" height="auto">
+  </a>
+</div>
+
 The Creative Collaboration Assistant is designed to facilitate group brainstorming sessions. It suggests creative alternatives, refines ideas, and structures them into actionable plans, promoting an efficient and dynamic flow of collaboration. Ideal for teams working on creative projects.
 
 ## Overview
